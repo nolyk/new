@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    color: inherit;
+}
+/* divs */
+.all{
+    margin: 0 auto;
+    width: 70%;
+    margin-top: 50px;
+    display: flex;
+}
+.elon{
+    display: flex;
+}
+.text{
+    padding: 5px;
+}
+.but{
+    display: flex;
+}
+.but{
+    margin-left: 400px;
+    margin-top: 10px;
+}
+/* img */
+.im1{
+    width: 70px;
+    height: 65px;
+}
+.m2{
+    width: 40px;
+}
+/* texts */
+.t1{
+    font-weight: 900;
+    font-size: 25px;
+}
+.t3{
+    font-weight: 800;
+    margin-top: 10px;
+}
